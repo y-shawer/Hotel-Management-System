@@ -1,0 +1,8 @@
+#ifndef TRACKINGROOMSAVAILABILITY_H_INCLUDED
+#define TRACKINGROOMSAVAILABILITY_H_INCLUDED
+
+#include "TrackingRoomsAvailability.c"
+
+void trackRoom();
+
+#endif // TRACKINGROOMSAVAILABILITY_H_INCLUDED
